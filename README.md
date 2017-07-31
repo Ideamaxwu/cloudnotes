@@ -16,4 +16,5 @@ Cloud Foundry is the industry standard open source cloud application platform fo
 
 ## Concepts
 Lambda & Kappa Architecture
+
 Latency (Velocity) & Throughout (Volume)
