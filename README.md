@@ -18,3 +18,5 @@ Cloud Foundry is the industry standard open source cloud application platform fo
 Lambda & Kappa Architecture
 
 Latency (Velocity) & Throughout (Volume)
+
+NimBus, an open-source toolkit focused on providing Infrastructure-as-a-Service (IaaS) capabilities to the scientific community.
