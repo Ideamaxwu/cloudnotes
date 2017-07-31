@@ -13,3 +13,6 @@ OpenStack is a cloud operating system that controls large pools of compute, stor
 
 ## Cloud Foundry
 Cloud Foundry is the industry standard open source cloud application platform for developing and deploying enterprise cloud applications. It automates, scales and manages cloud apps throughout their lifecycle. Applications can be written in just about any language and are deployed in container images on any infrastructure.
+
+## Concepts
+Lambda Kappa Architecture
