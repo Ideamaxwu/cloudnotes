@@ -22,3 +22,5 @@ Latency (Velocity) & Throughout (Volume)
 NimBus, an open-source toolkit focused on providing Infrastructure-as-a-Service (IaaS) capabilities to the scientific community.
 
 WriteAheadLogs/CommitLogs/TransactionLogs
+
+Martin Kleppmann
