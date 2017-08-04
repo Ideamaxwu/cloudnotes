@@ -27,6 +27,6 @@ Nearline/Online/Offline
 
 Conceptually DAG model is a strict generalization of MapReduce model. 
 
-DAG scheduler excution engine
+Fault-tolerant DAG scheduler excution engine
 
 Martin Kleppmann
