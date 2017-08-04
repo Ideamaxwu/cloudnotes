@@ -25,4 +25,6 @@ WriteAheadLogs/CommitLogs/TransactionLogs
 
 Nearline/Online/Offline
 
+Conceptually DAG model is a strict generalization of MapReduce model. 
+
 Martin Kleppmann
