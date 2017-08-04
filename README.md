@@ -23,4 +23,6 @@ NimBus, an open-source toolkit focused on providing Infrastructure-as-a-Service 
 
 WriteAheadLogs/CommitLogs/TransactionLogs
 
+Nearline/Online/Offline
+
 Martin Kleppmann
