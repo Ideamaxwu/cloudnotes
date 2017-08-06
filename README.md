@@ -29,7 +29,7 @@ Conceptually DAG model is a strict generalization of MapReduce model.
 
 Fault-tolerant DAG scheduler excution engine
 
-SSTable/LSM-Tree
+SSTable/LSM-tree/B-tree
 
 Martin Kleppmann
 
